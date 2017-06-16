@@ -22,6 +22,10 @@
         localStorage[76] = 'http://lping.cn/'
         localStorage[66] = 'http://lping.cn/bdhc_new/'
         localStorage[81] = 'http://wycs.me/bdhc/'
+        localStorage[69] = 'http://lping.cn/zhongmu/'
+        localStorage[82] = 'http://lping.cn/yth/'
+        localStorage[89] = 'http://lping.cn/c-xianfeng/'
+        localStorage[85] = 'http://lping.cn/taobao/'
     }
 
     for (var i in $keys) {
